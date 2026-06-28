@@ -1,0 +1,45 @@
+﻿{
+    "packName":  "OverCraft",
+    "version":  "0.0.1",
+    "releasedAtUtc":  "2026-06-28T21:04:29.2210216Z",
+    "url":  "OverCraft-0.0.1.zip",
+    "fileName":  "OverCraft-0.0.1.zip",
+    "sha256":  "b29335f49849f8560b8b4122daadf9c2b15bdfa2db06e7bde9cebe4366315bbc",
+    "sizeBytes":  1462894786,
+    "sizeMB":  1395.13,
+    "changelog":  "changelog.md",
+    "install":  {
+                    "deleteBeforeInstall":  [
+                                                "mods",
+                                                "config",
+                                                "defaultconfigs",
+                                                "kubejs",
+                                                "resourcepacks",
+                                                "shaderpacks",
+                                                "datapacks",
+                                                "fancymenu_data",
+                                                "local"
+                                            ],
+                    "replaceFiles":  [
+                                         "options.txt"
+                                     ],
+                    "preserve":  [
+                                     "saves",
+                                     "logs",
+                                     "crash-reports",
+                                     "cache",
+                                     "downloads",
+                                     "screenshots",
+                                     "journeymap",
+                                     ".voxy",
+                                     "servers.dat",
+                                     "minecraftinstance.json",
+                                     "user-prefs.json"
+                                 ]
+                },
+    "generatedFiles":  {
+                           "manifest":  "OverCraft-0.0.1.manifest.json",
+                           "diffJson":  "OverCraft-0.0.1.diff.json",
+                           "diffMarkdown":  "OverCraft-0.0.1.diff.md"
+                       }
+}
