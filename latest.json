@@ -1,48 +1,68 @@
 {
     "packName":  "OverCraft",
-    "version":  "0.0.2",
-    "releasedAtUtc":  "2026-06-29T19:27:23.9199874Z",
-    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.2/OverCraft-0.0.2.zip",
-    "fileName":  "OverCraft-0.0.2.zip",
-    "sha256":  "97a7eca200f4df3034e745ff0dc5ee6409258cc66fd2087342834814ab08f447",
-    "sizeBytes":  3736091020,
-    "sizeMB":  3563.01,
+    "version":  "0.0.3",
+    "releasedAtUtc":  "2026-06-29T20:04:36.3351104Z",
     "changelog":  "changelog.md",
-    "zipLayout":  "appdata",
-    "instanceRoot":  "Instance",
-    "installRoot":  "Install",
-    "install":  {
-                    "deleteBeforeInstall":  [
-                                                "mods",
-                                                "config",
-                                                "defaultconfigs",
-                                                "kubejs",
-                                                "resourcepacks",
-                                                "shaderpacks",
-                                                "datapacks",
-                                                "fancymenu_data",
-                                                "local"
-                                            ],
-                    "replaceFiles":  [
-                                         "options.txt"
-                                     ],
-                    "preserve":  [
-                                     "saves",
-                                     "logs",
-                                     "crash-reports",
-                                     "cache",
-                                     "downloads",
-                                     "screenshots",
-                                     "journeymap",
-                                     ".voxy",
-                                     "servers.dat",
-                                     "minecraftinstance.json",
-                                     "user-prefs.json"
-                                 ]
+    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.3/OverCraft-pack-0.0.3.zip",
+    "fileName":  "OverCraft-pack-0.0.3.zip",
+    "sha256":  "71a0b36f7130b923f5b77163593dbd7dfe71a70c3490c95a69a05bd546c8d757",
+    "sizeBytes":  1944362238,
+    "sizeMB":  1854.29,
+    "core":  {
+                 "version":  "1.21.1-neoforge-21.1.228",
+                 "releaseTag":  "core-1.21.1-neoforge-21.1.228",
+                 "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/core-1.21.1-neoforge-21.1.228/OverCraft-core-1.21.1-neoforge-21.1.228.zip",
+                 "fileName":  "OverCraft-core-1.21.1-neoforge-21.1.228.zip",
+                 "sha256":  "0884defc95d500fca1f85d6dc906547dcbf17bc0a13e3fed236331e95eb30fbc",
+                 "sizeBytes":  1314450073,
+                 "sizeMB":  1253.56,
+                 "zipLayout":  "appdata",
+                 "installRoot":  "Install"
+             },
+    "modpack":  {
+                    "version":  "0.0.3",
+                    "releaseTag":  "0.0.3",
+                    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.3/OverCraft-pack-0.0.3.zip",
+                    "fileName":  "OverCraft-pack-0.0.3.zip",
+                    "sha256":  "71a0b36f7130b923f5b77163593dbd7dfe71a70c3490c95a69a05bd546c8d757",
+                    "sizeBytes":  1944362238,
+                    "sizeMB":  1854.29,
+                    "zipLayout":  "appdata",
+                    "instanceRoot":  "Instance",
+                    "install":  {
+                                    "deleteBeforeInstall":  [
+                                                                "mods",
+                                                                "config",
+                                                                "defaultconfigs",
+                                                                "kubejs",
+                                                                "resourcepacks",
+                                                                "shaderpacks",
+                                                                "datapacks",
+                                                                "fancymenu_data",
+                                                                "local"
+                                                            ],
+                                    "replaceFiles":  [
+                                                         "options.txt"
+                                                     ],
+                                    "preserve":  [
+                                                     "saves",
+                                                     "logs",
+                                                     "crash-reports",
+                                                     "cache",
+                                                     "downloads",
+                                                     "screenshots",
+                                                     "journeymap",
+                                                     ".voxy",
+                                                     "servers.dat",
+                                                     "minecraftinstance.json",
+                                                     "user-prefs.json"
+                                                 ]
+                                }
                 },
     "generatedFiles":  {
-                           "manifest":  "OverCraft-0.0.2.manifest.json",
-                           "diffJson":  "OverCraft-0.0.2.diff.json",
-                           "diffMarkdown":  "OverCraft-0.0.2.diff.md"
+                           "modpackManifest":  "OverCraft-pack-0.0.3.manifest.json",
+                           "coreManifest":  "OverCraft-core-1.21.1-neoforge-21.1.228.manifest.json",
+                           "diffJson":  "OverCraft-pack-0.0.3.diff.json",
+                           "diffMarkdown":  "OverCraft-pack-0.0.3.diff.md"
                        }
 }
