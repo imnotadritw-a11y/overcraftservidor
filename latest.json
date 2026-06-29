@@ -1,32 +1,35 @@
 {
     "packName":  "OverCraft",
-    "version":  "0.0.3",
-    "releasedAtUtc":  "2026-06-29T20:04:36.3351104Z",
+    "version":  "0.0.4",
+    "releasedAtUtc":  "2026-06-29T20:58:03.2449274Z",
     "changelog":  "changelog.md",
-    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.3/OverCraft-pack-0.0.3.zip",
-    "fileName":  "OverCraft-pack-0.0.3.zip",
-    "sha256":  "71a0b36f7130b923f5b77163593dbd7dfe71a70c3490c95a69a05bd546c8d757",
-    "sizeBytes":  1944362238,
-    "sizeMB":  1854.29,
+    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.4/OverCraft-pack-0.0.4.zip",
+    "fileName":  "OverCraft-pack-0.0.4.zip",
+    "sha256":  "39a3748e63a355edf5b631e7ebc5fd0e0f710f599d9fe9f2f751c99ed049a8dd",
+    "sizeBytes":  1944336490,
+    "sizeMB":  1854.26,
+    "files":  null,
     "core":  {
                  "version":  "1.21.1-neoforge-21.1.228",
                  "releaseTag":  "core-1.21.1-neoforge-21.1.228",
                  "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/core-1.21.1-neoforge-21.1.228/OverCraft-core-1.21.1-neoforge-21.1.228.zip",
                  "fileName":  "OverCraft-core-1.21.1-neoforge-21.1.228.zip",
-                 "sha256":  "0884defc95d500fca1f85d6dc906547dcbf17bc0a13e3fed236331e95eb30fbc",
-                 "sizeBytes":  1314450073,
-                 "sizeMB":  1253.56,
+                 "sha256":  "d4fac94a62ba707ccde3f6c89b2488744ce7d28f02c406e658f3752f3ffe46a8",
+                 "sizeBytes":  1385048208,
+                 "sizeMB":  1320.88,
+                 "files":  null,
                  "zipLayout":  "appdata",
                  "installRoot":  "Install"
              },
     "modpack":  {
-                    "version":  "0.0.3",
-                    "releaseTag":  "0.0.3",
-                    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.3/OverCraft-pack-0.0.3.zip",
-                    "fileName":  "OverCraft-pack-0.0.3.zip",
-                    "sha256":  "71a0b36f7130b923f5b77163593dbd7dfe71a70c3490c95a69a05bd546c8d757",
-                    "sizeBytes":  1944362238,
-                    "sizeMB":  1854.29,
+                    "version":  "0.0.4",
+                    "releaseTag":  "0.0.4",
+                    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/0.0.4/OverCraft-pack-0.0.4.zip",
+                    "fileName":  "OverCraft-pack-0.0.4.zip",
+                    "sha256":  "39a3748e63a355edf5b631e7ebc5fd0e0f710f599d9fe9f2f751c99ed049a8dd",
+                    "sizeBytes":  1944336490,
+                    "sizeMB":  1854.26,
+                    "files":  null,
                     "zipLayout":  "appdata",
                     "instanceRoot":  "Instance",
                     "install":  {
@@ -60,9 +63,9 @@
                                 }
                 },
     "generatedFiles":  {
-                           "modpackManifest":  "OverCraft-pack-0.0.3.manifest.json",
+                           "modpackManifest":  "OverCraft-pack-0.0.4.manifest.json",
                            "coreManifest":  "OverCraft-core-1.21.1-neoforge-21.1.228.manifest.json",
-                           "diffJson":  "OverCraft-pack-0.0.3.diff.json",
-                           "diffMarkdown":  "OverCraft-pack-0.0.3.diff.md"
+                           "diffJson":  "OverCraft-pack-0.0.4.diff.json",
+                           "diffMarkdown":  "OverCraft-pack-0.0.4.diff.md"
                        }
 }
