@@ -1,4 +1,6 @@
-# OverCraft 0.0.6
+# OverCraft 0.1.0
 
-* He añadido a la madre de palexa
+* Cambios en algunas cosas
+* Cambios en algunas configs
+* Anticheat añadido
 
