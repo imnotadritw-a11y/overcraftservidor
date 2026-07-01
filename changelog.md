@@ -1,6 +1,4 @@
-# OverCraft 0.1.0
+# OverCraft 0.1.1
 
-* Cambios en algunas cosas
-* Cambios en algunas configs
-* Anticheat añadido
+* Port de Voxy con un arreglo experimental para la explosión de la bomba nuclear
 
