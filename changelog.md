@@ -1,33 +1,143 @@
-# OverCraft 0.9.0
+# OverCraft 1.0.0
 
 ## Cambios
 
-- Añadida configuración de Camera Client.
-- Añadida configuración de OverCraft Link.
-- Añadida configuración de Rpc Data.
-- Añadida configuración de Tablist.
-- Añadida configuración de Category Volumes.
-- Añadida configuración de Player Volumes.
-- Añadida configuración de Translations.
-- Añadida configuración de Username Cache.
-- Añadida configuración de Voicechat Client.
-- Añadida configuración de Voicechat Server.
+- Añadida configuración de Camera Server.
+- Añadida configuración de Aether.
+- Añadida configuración de Es Es.
+- Añadida configuración de Chapter.
+- Añadida configuración de Chapter Group.
+- Añadida configuración de Achapter.
+- Añadida configuración de Allthemodium.
+- Añadida configuración de Apotheosis.
+- Añadida configuración de Apothic Enchanting.
+- Añadida configuración de Applied Energistics.
+- Añadida configuración de Ars Nouveau.
+- Añadida configuración de Artifacts.
+- Añadida configuración de Basic Armor.
+- Añadida configuración de Basic Logistics.
+- Añadida configuración de Basic Power.
+- Añadida configuración de Basic Tools.
+- Añadida configuración de Bounty Board.
+- Añadida configuración de Building Tips.
+- Añadida configuración de Bumblezone.
+- Añadida configuración de Cataclysm.
+- Añadida configuración de Create.
+- Añadida configuración de Elmystical Agriculturerr.
+- Añadida configuración de Eternal Starlight.
+- Añadida configuración de Evilcraft.
+- Añadida configuración de Extreme Reactors.
+- Añadida configuración de Food And Farming.
+- Añadida configuración de Forbidden Arcanus.
+- Añadida configuración de Generators.
+- Añadida configuración de Hostile Neural Networks.
+- Añadida configuración de Immersive Engineering.
+- Añadida configuración de Industrial Foregoing.
+- Añadida configuración de Integrated Dynamics.
+- Añadida configuración de Iron Spells And Spellbooks.
+- Añadida configuración de Justdirethings.
+- Añadida configuración de Mahou Tsukai.
+- Añadida configuración de Mainquestline Part.
+- Añadida configuración de Mekanism.
+- Añadida configuración de Mekanism Reactors.
+- Añadida configuración de Modular Router.
+- Añadida configuración de Natures Aura.
+- Añadida configuración de Occultism.
+- Añadida configuración de Pneumaticcraft.
+- Añadida configuración de Powah.
+- Añadida configuración de Productive Bees.
+- Añadida configuración de Productive Trees.
+- Añadida configuración de Pylons.
+- Añadida configuración de Railcraft.
+- Añadida configuración de Relics.
+- Añadida configuración de Rust Free And Oiled.
+- Añadida configuración de Silent Gear.
+- Añadida configuración de Steam Age.
+- Añadida configuración de Storage.
+- Añadida configuración de The Electric Age.
+- Añadida configuración de Theurgy.
+- Añadida configuración de Tips And Tricks.
+- Añadida configuración de Twilight Forest.
+- Añadida configuración de Undergarden.
+- Añadida configuración de Welcome.
+- Añadida configuración de Xycraft.
+- Añadida configuración de File.
+- Añadida configuración de Reward Table.
+- Añadida configuración de Minecolonies Client.
+- Añadida configuración de Minecolonies Common.
+- Añadida configuración de Minecolonies Server.
 - Actualizados scripts de KubeJS.
-- Añadido mod Camera.
-- Añadido mod Neoenchant.
-- Añadido mod OverCraft Link.
-- Añadido mod Rpc.
-- Añadido mod Voicechat.
-- Añadido shader pack Photon Main.Zip.
-- Ajustada configuración de Enchantments.
+- Añadido mod Chat Colors Item.
 - Ajustada configuración de Indigo Renderer.
 - Ajustada configuración de Options.
+- Ajustada configuración de Building Tips.
+- Ajustada configuración de Bumblezone.
+- Ajustada configuración de Cataclysm.
+- Ajustada configuración de Deeper And Darker.
+- Ajustada configuración de Eternal Starlight.
+- Ajustada configuración de Extended Advanced Ae.
+- Ajustada configuración de Ice Fire.
+- Ajustada configuración de Twilight Forest.
+- Ajustada configuración de Undergarden.
+- Ajustada configuración de En Us.
+- Ajustada configuración de Chapter.
+- Ajustada configuración de Achapter.
+- Ajustada configuración de Allthemodium.
+- Ajustada configuración de Apotheosis.
+- Ajustada configuración de Apotheosis Gear.
+- Ajustada configuración de Apothic Enchanting.
+- Ajustada configuración de Applied Energistics.
+- Ajustada configuración de Ars Nouveau.
+- Ajustada configuración de Artifacts.
+- Ajustada configuración de Basic Armor.
+- Ajustada configuración de Basic Logistics.
+- Ajustada configuración de Basic Power.
+- Ajustada configuración de Basic Tools.
+- Ajustada configuración de Bounty Board.
+- Ajustada configuración de Create.
+- Ajustada configuración de Draconic Evolution.
+- Ajustada configuración de Elmystical Agriculturerr.
+- Ajustada configuración de Evilcraft.
+- Ajustada configuración de Extreme Reactors.
+- Ajustada configuración de Food And Farming.
+- Ajustada configuración de Forbidden Arcanus.
+- Ajustada configuración de Generators.
+- Ajustada configuración de Hostile Neural Networks.
+- Ajustada configuración de Immersive Engineering.
+- Ajustada configuración de Industrial Foregoing.
+- Ajustada configuración de Integrated Dynamics.
+- Ajustada configuración de Iron Spells And Spellbooks.
+- Ajustada configuración de Justdirethings.
+- Ajustada configuración de Mainquestline Part.
+- Ajustada configuración de Mekanism.
+- Ajustada configuración de Mekanism Reactors.
+- Ajustada configuración de Mi Digital.
+- Ajustada configuración de Mi Electric.
+- Ajustada configuración de Mi Steam.
+- Ajustada configuración de Modular Router.
+- Ajustada configuración de Natures Aura.
+- Ajustada configuración de Occultism.
+- Ajustada configuración de Oritech.
+- Ajustada configuración de Pneumaticcraft.
+- Ajustada configuración de Powah.
+- Ajustada configuración de Productive Bees.
+- Ajustada configuración de Productive Trees.
+- Ajustada configuración de Pylons.
+- Ajustada configuración de Railcraft.
+- Ajustada configuración de Refined Storage.
+- Ajustada configuración de Relics.
+- Ajustada configuración de Silent Gear.
+- Ajustada configuración de Storage.
+- Ajustada configuración de Theurgy.
+- Ajustada configuración de Tips And Tricks.
+- Ajustada configuración de Welcome.
+- Ajustada configuración de Xycraft.
+- Ajustada configuración de File.
 - Ajustada configuración de Iris.
-- Ajustada configuración de Plugins.
-- Ajustada configuración de Sort Order.
-- Ajustada configuración de OverCraft Link.
+- Ajustada configuración de Minecolonies Client.
+- Ajustada configuración de Minecolonies Common.
+- Ajustada configuración de Minecolonies Server.
 - Ajustada configuración de Sodiumextras Client.
+- Ajustada configuración de Sodium Options.
+- Actualizado mod OverCraft Link.
 - Ajustadas opciones del cliente.
-- Actualizado shader pack Bsl.
-- Eliminado mod Chunky.
-- Eliminado mod OverCraft Link.
