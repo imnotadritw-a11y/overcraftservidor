@@ -14,9 +14,9 @@
                  "releaseTag":  "core-1.21.1-neoforge-21.1.228",
                  "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/core-1.21.1-neoforge-21.1.228/OverCraft-core-1.21.1-neoforge-21.1.228.zip",
                  "fileName":  "OverCraft-core-1.21.1-neoforge-21.1.228.zip",
-                 "sha256":  "dd3c06889f82a912d00c2d782d6019c6c2dc841fd715e1163d242ec159c2fca1",
-                 "sizeBytes":  1401356527,
-                 "sizeMB":  1336.44,
+                 "sha256":  "62226441168c1b3e6a9762ee63281306f5f75f351c8411bd6550be5476f4480f",
+                 "sizeBytes":  1385048204,
+                 "sizeMB":  1320.88,
                  "files":  null,
                  "zipLayout":  "appdata",
                  "installRoot":  "Install"
