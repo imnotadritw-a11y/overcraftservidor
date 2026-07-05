@@ -1,45 +1,6 @@
-# OverCraft 1.1.1
+# OverCraft 1.2.1
 
 ## Cambios
 
-- Añadida configuración de Dia.
-- Añadida configuración de Overcraft.
-- Añadida configuración de Chat Screen Layout.
-- Añadida configuración de Creative Mode Inventory Screen Layout.
-- Añadida configuración de Join Multiplayer Screen Layout.
-- Añadida configuración de Language Select Screen Layout.
-- Añadida configuración de Me.Flashyreese.Mods.Reeses Sodium Options.Client.Gui.Sodiumvideooptionsscreen Layout.
-- Añadida configuración de Net.Neoforged.Neoforge.Client.Gui.Modlistscreen Layout.
-- Añadida configuración de Online Options Screen Layout.
-- Añadida configuración de Options Screen Layout.
-- Añadida configuración de Pause Screen Layout.
-- Añadida configuración de Skin Customization Screen Layout.
-- Añadida configuración de Sound Options Screen Layout.
-- Añadida configuración de Universal Layout.
-- Añadida configuración de Video Element Controller Metas.
-- Añadida configuración de Mcef.
-- Añadida configuración de Offlineskins.
-- Añadida configuración de Quickskin Preferences.
-- Añadida configuración de Quickskin Client.
-- Añadida configuración de Quickskin Server.
-- Añadida configuración de Sdrp Common.
-- Añadida configuración de Watermedia.
-- Añadida configuración de Custom Vlc Path.
-- Actualizados scripts de KubeJS.
-- Añadido mod Fancymenu.
-- Añadido mod Mcef.
-- Añadido mod Offlineskins.
-- Añadido mod Quick Skin   Neoforge   1.21.1.
-- Añadido mod Simplediscordrichpresence.
-- Añadido mod Watermedia Binaries.
-- Añadido mod Watermedia Platform Extension.
-- Añadido mod Watermedia.
-- Ajustada configuración de Indigo Renderer.
-- Ajustada configuración de Customizablemenus.
-- Ajustada configuración de Title Screen Layout.
-- Ajustada configuración de Element Layer Control.
-- Ajustada configuración de Options.
-- Ajustada configuración de Iris.
-- Actualizado mod Carryonextend Architectury.
-- Ajustadas opciones del cliente.
-- Eliminado mod Fancymenu.
+- Actualizado mod Chat Colors Item.
+- Actualizado mod Phonecraft.

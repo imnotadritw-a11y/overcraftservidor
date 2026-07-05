@@ -1,12 +1,12 @@
 {
     "packName":  "OverCraft",
-    "version":  "1.1.1",
-    "releasedAtUtc":  "2026-07-03T14:44:38.1781752Z",
+    "version":  "1.2.1",
+    "releasedAtUtc":  "2026-07-05T13:53:10.5009871Z",
     "changelog":  "changelog.md",
-    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.1.1/OverCraft-pack-1.1.1.zip",
-    "fileName":  "OverCraft-pack-1.1.1.zip",
-    "sha256":  "6e3aae2afb621d6050ac0e55ee2fd67d0e2b933227a10801c2f311c89dea922a",
-    "sizeBytes":  1646981145,
+    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.2.1/OverCraft-pack-1.2.1.zip",
+    "fileName":  "OverCraft-pack-1.2.1.zip",
+    "sha256":  "e889e6e1d5f7b1b298b062475d5ea5dc3a5faeaf62b7f2a0f01b55077c186755",
+    "sizeBytes":  1646982434,
     "sizeMB":  1570.68,
     "files":  null,
     "core":  {
@@ -14,7 +14,7 @@
                  "releaseTag":  "core-1.21.1-neoforge-21.1.228",
                  "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/core-1.21.1-neoforge-21.1.228/OverCraft-core-1.21.1-neoforge-21.1.228.zip",
                  "fileName":  "OverCraft-core-1.21.1-neoforge-21.1.228.zip",
-                 "sha256":  "8348fc99110c073acc99cd5ea62751c80cb4e453e8e7e6fc064bcc94b0d48f9e",
+                 "sha256":  "2a84965d4c037f4c2326fec84323e55bdf3d6e4b0f75d4a12b9c77e1ea88c615",
                  "sizeBytes":  1401359407,
                  "sizeMB":  1336.44,
                  "files":  null,
@@ -22,12 +22,12 @@
                  "installRoot":  "Install"
              },
     "modpack":  {
-                    "version":  "1.1.1",
-                    "releaseTag":  "1.1.1",
-                    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.1.1/OverCraft-pack-1.1.1.zip",
-                    "fileName":  "OverCraft-pack-1.1.1.zip",
-                    "sha256":  "6e3aae2afb621d6050ac0e55ee2fd67d0e2b933227a10801c2f311c89dea922a",
-                    "sizeBytes":  1646981145,
+                    "version":  "1.2.1",
+                    "releaseTag":  "1.2.1",
+                    "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.2.1/OverCraft-pack-1.2.1.zip",
+                    "fileName":  "OverCraft-pack-1.2.1.zip",
+                    "sha256":  "e889e6e1d5f7b1b298b062475d5ea5dc3a5faeaf62b7f2a0f01b55077c186755",
+                    "sizeBytes":  1646982434,
                     "sizeMB":  1570.68,
                     "files":  null,
                     "zipLayout":  "appdata",
@@ -45,7 +45,7 @@
                                                                 "local"
                                                             ],
                                     "replaceFiles":  [
-                                                         "options.txt"
+
                                                      ],
                                     "preserve":  [
                                                      "saves",
@@ -63,29 +63,29 @@
                                 },
                     "patches":  [
                                     {
-                                        "fromVersion":  "1.0.1",
-                                        "toVersion":  "1.1.1",
-                                        "releaseTag":  "1.1.1",
-                                        "patchJson":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.1.1/OverCraft-pack-1.0.1-to-1.1.1.patch.json",
-                                        "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.1.1/OverCraft-pack-1.0.1-to-1.1.1.patch.zip",
-                                        "fileName":  "OverCraft-pack-1.0.1-to-1.1.1.patch.zip",
-                                        "sha256":  "23946de03aa95f992d699480688f58fc2b5d4be8d2fdfa5c48d6ba592af7a2f7",
-                                        "sizeBytes":  188319283,
-                                        "sizeMB":  179.6,
+                                        "fromVersion":  "1.1.1",
+                                        "toVersion":  "1.2.1",
+                                        "releaseTag":  "1.2.1",
+                                        "patchJson":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.2.1/OverCraft-pack-1.1.1-to-1.2.1.patch.json",
+                                        "url":  "https://github.com/imnotadritw-a11y/overcraftservidor/releases/download/1.2.1/OverCraft-pack-1.1.1-to-1.2.1.patch.zip",
+                                        "fileName":  "OverCraft-pack-1.1.1-to-1.2.1.patch.zip",
+                                        "sha256":  "7d5b8ee804ea8f0371fb0dc1dbd74d9485c953c0ee4656e5188afb006f45c043",
+                                        "sizeBytes":  366293,
+                                        "sizeMB":  0.35,
                                         "files":  null,
                                         "operationCounts":  {
-                                                                "add":  89,
-                                                                "replace":  12,
-                                                                "delete":  16
+                                                                "add":  0,
+                                                                "replace":  2,
+                                                                "delete":  0
                                                             }
                                     }
                                 ]
                 },
     "generatedFiles":  {
-                           "modpackManifest":  "OverCraft-pack-1.1.1.manifest.json",
+                           "modpackManifest":  "OverCraft-pack-1.2.1.manifest.json",
                            "coreManifest":  "OverCraft-core-1.21.1-neoforge-21.1.228.manifest.json",
-                           "diffJson":  "OverCraft-pack-1.1.1.diff.json",
-                           "diffMarkdown":  "OverCraft-pack-1.1.1.diff.md",
-                           "patchJson":  "OverCraft-pack-1.0.1-to-1.1.1.patch.json"
+                           "diffJson":  "OverCraft-pack-1.2.1.diff.json",
+                           "diffMarkdown":  "OverCraft-pack-1.2.1.diff.md",
+                           "patchJson":  "OverCraft-pack-1.1.1-to-1.2.1.patch.json"
                        }
 }
